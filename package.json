@@ -4,9 +4,9 @@
   "description": "CRUD, Express and MongoDB are big words for a person who has never touched any server-side programming in their life. Let’s quickly introduce what they are before we diving into the tutorial.",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cookie-signature": "^1.0.6",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.9.4"
   },
   "devDependencies": {},
